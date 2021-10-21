@@ -14,6 +14,7 @@ numList.append(int(input())%42)
 numList.append(int(input())%42)
 numList.append(int(input())%42)
 
+
 newList = []
 
 for i in numList:
